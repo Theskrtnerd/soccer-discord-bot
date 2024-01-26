@@ -10,4 +10,4 @@ A Discord bot with your favourite soccer games like Missing 11, Guess the Player
 - Add your BOT_TOKEN to the .env file
 - Run your bot and enjoy
 
-
+## Please read my [blog post](https://xineohperif.netlify.app/blog/soccer-discord-bot-to-make-your-covid-days-much-better/) for more information 😁
